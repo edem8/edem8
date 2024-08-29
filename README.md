@@ -9,7 +9,7 @@
 
 
 ##
-![Edem's GitHub stats](https://github-readme-stats.vercel.app/api?username=edem8&show_icons=true&theme=tokyonight)
+![Eedem Kwaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=edem8&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edem8&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
